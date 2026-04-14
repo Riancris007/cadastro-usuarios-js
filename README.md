@@ -16,3 +16,10 @@ Projeto simples de cadastro de usuários desenvolvido com HTML, CSS e JavaScript
 
 ## Objetivo
 Projeto criado para praticar manipulação do DOM, eventos, formulários e armazenamento local no navegador.
+
+## Como executar
+1. Baixe ou clone este repositório
+2. Abra o arquivo `index.html` no navegador
+
+## Autor
+Projeto desenvolvido por Rian Cristien.
