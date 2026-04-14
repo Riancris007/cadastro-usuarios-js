@@ -3,10 +3,7 @@
 
 Acesse o projeto online:
 https://riancris007.github.io/cadastro-usuarios-js/
-## Preview
 
-![Preview do projeto](preview.png)
-Projeto simples de cadastro de usuários desenvolvido com HTML, CSS e JavaScript.
 
 ## Funcionalidades
 - Cadastrar usuários
